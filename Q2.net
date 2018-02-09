@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\Wesley\\Desktop\\EEC 134\\Q2\\Q2.sch")
-    (date "2/8/2018 8:32:02 PM")
+    (source "C:/Users/Wesley/Desktop/EEC 134/Q2/Q2.sch")
+    (date "2/8/2018 11:44:23 PM")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -310,7 +310,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5A7F0F50))
     (comp (ref C12)
-      (value 0.1u)
+      (value 68p)
       (footprint Q2Footprint:C_0805_HandSoldering)
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
@@ -406,7 +406,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5A7D8283))
     (comp (ref C24)
-      (value 0.1u)
+      (value 68p)
       (footprint Q2Footprint:C_0805_HandSoldering)
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
