@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:/Users/Wesley/Desktop/EEC 134/Q2/Q2.sch")
-    (date "2/9/2018 9:05:39 AM")
+    (date "2/9/2018 11:01:33 AM")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
